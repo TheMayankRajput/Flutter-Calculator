@@ -1,4 +1,5 @@
-To run the app on mobile:
+To run the app on mobile: 
+
 Install the 'app-release.apk' on your device.
 
 To run the app using PC:
