@@ -1,0 +1,8 @@
+
+To run the file:
+1. Pull the files from github to your computer.
+2. Start an android emulator or connect a device with USB debugging enabled.
+3. click on run and debug.
+4. And the app will start.
+
+Note: Make sure that Flutter is installed on your device
